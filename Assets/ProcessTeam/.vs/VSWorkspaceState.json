@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DoorManagment",
+    "\\DynamicRooms",
+    "\\DynamicRooms\\RoomFactory",
+    "\\DynamicRooms\\StreetFactory"
+  ],
+  "SelectedNode": "\\DynamicRooms\\DynamicShape.cs",
+  "PreviewInSolutionExplorer": false
+}
